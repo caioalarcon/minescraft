@@ -1,4 +1,4 @@
 FROM itzg/minecraft-server
-EXPOSE 80 25575 
+EXPOSE 8080 8080 
 
 
